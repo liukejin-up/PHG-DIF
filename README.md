@@ -26,7 +26,9 @@ Accurate personalized headline generation hinges on precisely capturing user int
 
 
 
-## The Framework of SCAPE
+## The Framework of PHG-DIF
+
+<img width="1868" height="1054" alt="image" src="https://github.com/user-attachments/assets/36130aac-34b1-48a2-ad96-5a53db9c1408" />
 
 **Figure 2: Overview of the proposed PHG-DIF framework.**
 

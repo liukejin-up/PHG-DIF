@@ -1,8 +1,8 @@
 # PHG-DIF & DT-PENS
 The PyTorch open source implementation for the 34th ACM International Conference on Information and Knowledge Management (CIKM '25) paper "Improved Personalized Headline Generation via Denoising Fake Interests from Implicit Feedback".
 
-[arXiv link](https://arxiv.org/abs/)
-[ACM Digital Library link](https://dl.acm.org/doi/)
+[arXiv link](https://arxiv.org/abs/2508.07178)
+[ACM Digital Library link](https://dl.acm.org/doi/10.1145/3746252.3761210)
 
 
 
